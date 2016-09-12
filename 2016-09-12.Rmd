@@ -103,7 +103,7 @@ Probability starts with a sample space $S$, a collection with all possible outco
 
 * A race among 8 horses: ?
 
-* Toss a coin until a head appears: $\{T, TH, THH, THHH, \ldots\}$
+* Toss a coin until a head appears: $\{H, TH, TTH, TTTH, \ldots\}$
 
 * Pick a real number between 0 and 1 "uniformly": $(0, 1)$ (A "continuous" sample space.)
 
