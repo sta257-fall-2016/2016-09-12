@@ -163,7 +163,7 @@ Proof: $\ldots$
 
 Theorem 2: If $A_1$ and $A_2$ are disjoint then $P(A_1 \cup A_2) = P(A_1) + P(A_2)$.
 
-Proof: $\ldots$
+Proof: $\ldots$ (Note added after class...from now on we don't need the "silly" infinite number of $\emptyset$ in any of the proofs.)
 
 Theorem 2a: If $A_1,A_2,\ldots,A_n$ are disjoint then $P\left(\bigcup_{i=1}^n A_i\right) = \sum_{i=1}^n P(A_i)$ (called "finite additivity")
 
@@ -175,9 +175,9 @@ Theorem 3: $P(A^c) = 1 - P(A)$
 
 Theorem 4: If $A \subseteq B$ then $P(A) \le P(B)$. "$P$ is monotone."
 
-Theorem 4a: $P(B\backslash A) = P(B) - P(B \cap A^c)$
+Theorem 4a: $P(B\backslash A) = P(B) - P(B \cap A)$ (*Proof left as exercise*)
 
-Theorem 4b: If $A \subseteq B$ then $P(B\backslash A) = P(B) - P(A)$.
+Theorem 4b: If $A \subseteq B$ then $P(B\backslash A) = P(B) - P(A)$. (*Proof left as exercise. Note that any proof left as an exercise is always allowed to use theorems already proven, and anything from general maths and calculus.*)
 
 Theorem 5: $P(A \cup B) = P(A) + P(B) - P(A \cap B)$ (and generalizations)
 
