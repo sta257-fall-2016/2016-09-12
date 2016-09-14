@@ -153,6 +153,8 @@ Proof: $\ldots$
 
 Advanced note...when the sample space is something like $S=(0,1)$ and if we were to allow $\mathcal{A}$ to be the collection of *all* subsets of $S$, then the axioms are *inconsistent*.
 
+Added after class due to interest from many students...the advanced note should be understood to include also the desire for the "uniform probability" on $S$ - in other words the probability to lie in $(a,b)$ with $0<a<b<1$ to be $b-a$. 
+
 ## everyday properties of $P$
 
 Continuing with total and absolute fussiness:
